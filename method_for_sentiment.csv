@@ -1,0 +1,40 @@
+,Unnamed: 0,Cleaned_tweet,textblob,vader,preprocess_txt,total_len,pos_count,neg_count,normalization,semi_normalization,actual
+0,72,  usually would angry sh take app last time checked fever 'm jus ,neagtive,negative,"['usually', 'would', 'angry', 'sh', 'take', 'app', 'last', 'time', 'checked', 'fever', 'jus']",11,0,2,negative,negative,Negative
+1,73, patient year old boy infancy gt oral lesion recurrent fever diarrhea vomiting atopic dermatitis   pa ,neutral,positive,"['patient', 'year', 'old', 'boy', 'infancy', 'gt', 'oral', 'lesion', 'recurrent', 'fever', 'diarrhea', 'vomiting', 'atopic', 'dermatitis', 'pa']",15,1,2,negative,negative,Negative
+2,74,the truth ufo fever grip congress politico,neutral,positive,"['truth', 'ufo', 'fever', 'grip', 'congress', 'politico']",6,0,1,negative,negative,Neutral
+3,75,patient year old boy infancy gt oral lesion recurrent fever diarrhea vomiting atopic dermatitis ..,neutral,positive,"['patient', 'year', 'old', 'boy', 'infancy', 'gt', 'oral', 'lesion', 'recurrent', 'fever', 'diarrhea', 'vomiting', 'atopic', 'dermatitis']",14,1,2,negative,negative,Negative
+4,76,  spent valentine 's day huge fever headache fun  ,positive,positive,"['spent', 'valentine', 'day', 'huge', 'fever', 'headache', 'fun']",7,1,2,negative,negative,Negative
+5,77,  burn  ca n't hold now you got nothing stop me i burn  swing want like fever take  ,neutral,positive,"['burn', 'ca', 'n', 'hold', 'got', 'nothing', 'stop', 'burn', 'swing', 'want', 'like', 'fever', 'take']",13,1,3,negative,negative,Neutral
+6,78, condo property manager sick day developed persistent fever wks yet choice ,negative,negative,"['condo', 'property', 'manager', 'sick', 'day', 'developed', 'persistent', 'fever', 'wks', 'yet', 'choice']",11,0,2,negative,negative,Neutral
+7,79,thank lee mergner marvelous wbgo interview new cd   fever peggy lee celebration    ,positive,positive,"['thank', 'lee', 'mergner', 'marvelous', 'wbgo', 'interview', 'new', 'cd', 'fever', 'peggy', 'lee', 'celebration']",12,3,1,positive,positive,Neutral
+8,80,this warned   hemorhagic fever   similar ebola   they talking . stock c ,neutral,negative,"['warned', 'hemorhagic', 'fever', 'similar', 'ebola', 'talking', 'stock', 'c']",8,0,2,negative,negative,Neutral
+9,81,feeling kaafi sick rn fever killing,negative,negative,"['feeling', 'kaafi', 'sick', 'rn', 'fever', 'killing']",6,0,3,negative,negative,Negative
+10,82,mine fever,neutral,neutral,"['mine', 'fever']",2,0,1,negative,negative,Neutral
+11,83,   illness cause sharp rise absence christmas strep  scarlet fever  well covid  empti ,negative,negative,"['illness', 'cause', 'sharp', 'rise', 'absence', 'christmas', 'strep', 'scarlet', 'fever', 'well', 'covid', 'empti']",12,2,3,negative,negative,Neutral
+12,84,all nephew niece give baby fever,neutral,neutral,"['nephew', 'niece', 'give', 'baby', 'fever']",5,0,1,negative,negative,Neutral
+13,85,caught baby fever soooooo bad yesterday,negative,negative,"['caught', 'baby', 'fever', 'soooooo', 'bad', 'yesterday']",6,0,2,negative,negative,Negative
+14,86,this fever nd school got fuuuuucked rn,neutral,neutral,"['fever', 'nd', 'school', 'got', 'fuuuuucked', 'rn']",6,0,1,negative,negative,Neutral
+15,87,today far one toughest day single mother ive running fever day st ,positive,negative,"['today', 'far', 'one', 'toughest', 'day', 'single', 'mother', 'ive', 'running', 'fever', 'day', 'st']",12,1,1,neutral,neutral,Negative
+16,88,eh dont think someone ever loses presidential fever catch path f ,negative,negative,"['eh', 'dont', 'think', 'someone', 'ever', 'loses', 'presidential', 'fever', 'catch', 'path', 'f']",11,0,2,negative,negative,Neutral
+17,89,limits demarest certified self willingness fever intimidation     ax ax ax,neutral,negative,"['limit', 'demarest', 'certified', 'self', 'willingness', 'fever', 'intimidation', 'ax', 'ax', 'ax']",10,1,6,negative,negative,Neutral
+18,90,still think fever dream,neutral,positive,"['still', 'think', 'fever', 'dream']",4,0,1,negative,negative,Neutral
+19,91,fever inevitable scanner disappointment house react     ,negative,negative,"['fever', 'inevitable', 'scanner', 'disappointment', 'house', 'react']",6,0,3,negative,negative,Neutral
+20,92,hi fever feel coming feel,neutral,neutral,"['hi', 'fever', 'feel', 'coming', 'feel']",5,0,1,negative,negative,Neutral
+21,93,high fever ..,positive,neutral,"['high', 'fever']",2,0,1,negative,negative,Negative
+22,94,panicking fever dream,neutral,negative,"['panicking', 'fever', 'dream']",3,0,2,negative,negative,Neutral
+23,95,nnewi   nnewi still standing peter obi   nnewi added heat untop ladipo fever ,neutral,neutral,"['nnewi', 'nnewi', 'still', 'standing', 'peter', 'obi', 'nnewi', 'added', 'heat', 'untop', 'ladipo', 'fever']",12,0,1,negative,negative,Neutral
+24,96,how sleep fever,neutral,neutral,"['sleep', 'fever']",2,0,1,negative,negative,Neutral
+25,97,  people sunset suffering endless fever.  can reverse spell even affected,negative,negative,"['people', 'sunset', 'suffering', 'endless', 'fever', 'reverse', 'spell', 'even', 'affected']",9,0,2,negative,negative,Neutral
+26,98,thought allergy body huconfirmed fever hopefully flu nap time,neutral,neutral,"['thought', 'allergy', 'body', 'huconfirmed', 'fever', 'hopefully', 'flu', 'nap', 'time']",9,0,2,negative,negative,Positive
+27,99,craw fever gna knock car,neutral,neutral,"['craw', 'fever', 'gna', 'knock', 'car']",5,0,2,negative,negative,Neutral
+28,100,fever dream icb,neutral,positive,"['fever', 'dream', 'icb']",3,0,1,negative,negative,Neutral
+29,101,failed state year corruption n religious fever destroyed nation all.st ,negative,negative,"['failed', 'state', 'year', 'corruption', 'n', 'religious', 'fever', 'destroyed', 'nation', 'st']",10,0,3,negative,negative,Neutral
+30,102,its cup fever woodland tonight j team div take team div cupmagic giantkilling,neutral,neutral,"['cup', 'fever', 'woodland', 'tonight', 'j', 'team', 'div', 'take', 'team', 'div', 'cupmagic', 'giantkilling']",12,0,1,negative,negative,Neutral
+31,103,gap fever,neutral,neutral,"['gap', 'fever']",2,0,1,negative,negative,Neutral
+32,104,literally fever dream believe,neutral,positive,"['literally', 'fever', 'dream', 'believe']",4,0,1,negative,negative,Neutral
+33,105,why still fever   please move sir g. main bowler failed ge ,negative,negative,"['still', 'fever', 'please', 'move', 'sir', 'g', 'main', 'bowler', 'failed', 'ge']",10,0,2,negative,negative,Neutral
+34,106,for everyone fever digital id understand ship sailed later  soylent green ,negative,neutral,"['everyone', 'fever', 'digital', 'id', 'understand', 'ship', 'sailed', 'later', 'soylent', 'green']",10,0,1,negative,negative,Neutral
+35,107,kinda coughing spell xd mostly try talk fever anything though covid lol,positive,positive,"['kinda', 'coughing', 'spell', 'xd', 'mostly', 'try', 'talk', 'fever', 'anything', 'though', 'covid', 'lol']",12,0,1,negative,negative,Neutral
+36,108,nowplaying top feat dvi psychic fever exile tribe j pop powerplay,positive,positive,"['nowplaying', 'top', 'feat', 'dvi', 'psychic', 'fever', 'exile', 'tribe', 'j', 'pop', 'powerplay']",11,2,2,neutral,neutral,Neutral
+37,109,im mad cause tf woke fever,negative,negative,"['im', 'mad', 'cause', 'tf', 'woke', 'fever']",6,0,2,negative,negative,Negative
+38,110,checking in.  i definitely tell im improving fast enough lol fever pagone .,positive,positive,"['checking', 'definitely', 'tell', 'im', 'improving', 'fast', 'enough', 'lol', 'fever', 'pagone']",10,3,1,positive,positive,Positive

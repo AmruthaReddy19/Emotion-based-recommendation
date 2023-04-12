@@ -1,73 +1,73 @@
 Diseases,Symptoms,Features,Suggestions,Description
-Fever,High body temperature,temperature,"Use a damp cloth ,Lower the room temperature","You can use a damp cloth or sponge to help lower your body temperature. Place the cloth on your forehead, neck, or armpits, Keep your room cool and well-ventilated. This can help reduce your body temperature and make you more comfortable."
-Fever,Chills,chills,"Drink warm fluids,Take a warm bath","Sipping on warm liquids, such as tea or soup, can help warm you up from the inside and alleviate chills, Soaking in a warm bath or shower can help alleviate chills and provide comfort."
-Fever,Sweating,sweating,"Stay hydrated, Avoid triggers","Drinking plenty of water and fluids can help regulate body temperature and prevent dehydration, which can worsen sweating.,Certain foods and drinks, such as spicy foods and caffeine, can trigger sweating. Avoid these triggers if they cause excessive sweating."
-Fever,Headache,headache,"Apply heat or cold, manage stress, drink fluids","Applying a cold or warm compress to the affected area can help relieve headache pain., Stress can cause tension headaches. Try relaxation techniques, such as deep breathing, meditation, or yoga, to manage stress.,Dehydration can cause headaches, so it is important to drink plenty of fluids to prevent dehydration."
-Fever,Muscle aches,muscle aches,"Massage ,stretch, apply heat or cold","Massaging the affected area can help increase blood flow and alleviate muscle pain and tension, Gentle stretching exercises can help alleviate muscle tension and improve flexibility, Applying a cold or warm compress to the affected area can help relieve headache pain.."
-Fever,Fatigue,fatigue,Limit caffeine and alcohol,"Caffeine and alcohol can disrupt sleep and cause dehydration, which can worsen fatigue."
-Fever,Rapid heartbeat,heartbeat,Avoid triggers,"If you know that certain activities or situations trigger your tachycardia, try to avoid them or find ways to manage them."
-Fever,diarrhea,diarrhea,avoid solid food,"Stick to a liquid or soft diet, and avoid solid foods until the symptoms improve."
-Fever,nausea,nausea,hydrate,"Drink plenty of fluids, such as water, juice, or electrolyte beverages, to keep your body hydrated and help reduce nausea."
-Fever,throat,throat,Gargle with salt water,Gargling with warm salt water can help soothe a sore throat.
-Nausea,The sensation of needing to vomit,vomit,Use natural remedies,Ginger has been shown to be effective in reducing nausea. You can try drinking ginger tea or taking ginger supplements
-Nausea,Increased salivation or sweating,sweating,Avoid triggers," If you know certain foods, smells, or situations trigger your symptoms, try to avoid them or find ways to manage them."
-Nausea,A feeling of queasiness in the stomach,stomach,"Eat small, frequent meals","Eating small, frequent meals that are low in fat and easy to digest can help prevent queasiness. Foods like crackers, toast, bananas, and rice can be helpful."
-Nausea,Gagging or retching,retching,Practice relaxation techniques,"Deep breathing exercises, yoga, or meditation can help reduce stress and anxiety, which can contribute to gagging or retching."
-Nausea,salivation,salivation,Ginger:,"Ginger is a natural anti-inflammatory and antiemetic, which can help relieve nausea and vomiting"
-Nausea,queasinees,queasiness,Peppermint,Peppermint is also known to help alleviate nausea. You can try sipping on peppermint tea or sucking on peppermint candies.
-Nausea,headche,headache,Hydrate,"Drinking plenty of fluids, such as water or electrolyte-rich drinks, can help combat nausea and headaches caused by dehydration."
-Nausea,Rapid heartbeat,rapid heartbeat,Deep breathing exercises," Slow, deep breathing can help calm your body and reduce anxiety, which may be contributing to your symptoms."
-Nausea,anxiety,anxiety,Relaxation techniques:,"Meditation, yoga, or other relaxation techniques may help reduce anxiety and promote feelings of calmness."
-Nausea,Gagging or retching,gagging,"Eat small, frequent meals","Eating small, frequent meals that are low in fat and easy to digest can help prevent gagging or retching. Foods like crackers, toast, bananas, and rice can be helpful."
-Sprain,Swelling,swelling,Ice,"Applying ice to the affected area can help reduce swelling and relieve pain. Wrap ice in a towel or use an ice pack for 20 minutes at a time, several times a day."
-Sprain,pain,pain,Ice,"Applying ice to the affected area can help reduce swelling and relieve pain. Wrap ice in a towel or use an ice pack for 20 minutes at a time, several times a day."
-Sprain,Restricted mobility,mobility,Physical therapy,"A physical therapist can develop a customized exercise program to help improve strength, flexibility, and mobility. They can also provide guidance on using mobility aids such as canes or walkers."
-Sprain,soreness,soreness,Rest and Ice,"If you have a sprain or injury with soreness, the first thing you should do is to rest the affected area and apply ice. This will help reduce swelling and pain. Ice the area for 15-20 minutes every few hours for the first 48 hours."
-Sprain,injury,injury,Compression,"You can also use compression to help reduce swelling and soreness. Wrap the affected area with an elastic bandage, but not too tightly. Make sure to re-wrap the area if it feels too tight or if you experience tingling or numbness"
-Sprain,Instability,Instability,Surgery,"In some cases, instability may require surgical intervention, such as joint replacement or spinal surgery."
-Sprain,twist foot,twist foot,ice,"Applying ice to the affected area can help reduce swelling and relieve pain. Wrap ice in a towel or use an ice pack for 20 minutes at a time, several times a day."
-Sprain,twist foot,ankle,ice,"Applying ice to the affected area can help reduce swelling and relieve pain. Wrap ice in a towel or use an ice pack for 20 minutes at a time, several times a day."
-Sprain,Bruising,bruising,Heat,You can apply heat to boost circulation and increase blood flow. This will help to clear away the trapped blood after the bruise has already formed. Applying heat can also help to loosen tense muscles and relieve pain.
-Stroke,"Sudden numbness or weakness in the face, arm, or leg, especially on one side of the body",loss,Avoid any strenuous activities,"If you experience sudden numbness or weakness, avoid any strenuous activities that could worsen the condition. Rest and allow your body to recover."
-Anxiety ,depression,depression,Seek professional help: ,Talk to a mental health professional who can help you understand your symptoms and develop a treatment plan.
-Anxiety ,confusion,confusion,Engage in stimulating activities: ,"Activities such as puzzles, games, or creative projects can help stimulate the brain and increase focus."
-Anxiety ,struggle,struggle,Practice self-compassion,"Treat yourself with kindness and understanding. Acknowledge that struggling is a normal part of the human experience, and give yourself permission to take time to heal."
-Anxiety ,stress,stress,Exercise regularly,Exercise is a natural stress reliever and can help reduce symptoms of depression.
-Anxiety ,Excessive worry or fear,fear,Healthy diet,"Eating a healthy, balanced diet can help improve mood and reduce anxiety. Avoiding excessive amounts of caffeine and alcohol can also help reduce anxiety symptoms."
-Anxiety ,Panic attacks,attacks,Breathing exercises,"Focusing on slow, deep breathing can help reduce the intensity of panic attack symptoms. Try inhaling slowly through your nose and exhaling slowly through your mouth."
-Anxiety ,Difficulty sleeping,sleeping,Create a relaxing sleep environment,"Make sure your bedroom is cool, quiet, and dark. Consider using blackout curtains, earplugs, or a white noise machine to block out any distractions."
-Anxiety ,Irritability,irritability,Social support,"Talking to a trusted friend or family member, or joining a support group can help reduce feelings of isolation and provide a supportive environment to manage irritability."
-Dengue,High Fever,Fever,Wear light weight clothing,Dress in lightweight clothing to help your body better regulate its temperature.
-Dengue,mosquito,mosquito,Use mosquito repellent:,"Apply mosquito repellent to your skin and clothing, especially when going outdoors."
-Dengue,virus,virus,Monitor your symptoms,"Pay attention to any changes in your symptoms, such as high fever or severe abdominal pain, and seek medical attention if necessary."
-Dengue,platelet,platelet,Avoid activities that may cause bleeding,"Avoid activities that may cause bruising or bleeding, such as contact sports or heavy lifting, until your platelet count returns to a safe level."
-Dengue,Severe headache,headache,Need relaxation,"Try relaxation techniques such as deep breathing, meditation, or yoga."
-Dengue,Joint and Muscle pain,joint pain,Acupuncture,Acupuncture can help reduce muscle and joint pain by stimulating the body's natural pain-relieving mechanisms.
-Dengue,Nausea and Vomiting,nausea,Eat lighter and frequent meals, Try to eat small meals throughout the day to avoid an empty stomach.
-Dengue,Nausea and Vomiting,vomiting,Avoid alcohol and smoking," Both alcohol and smoking can irritate the stomach lining, which can worsen nausea and vomiting."
-Dengue,Fatigue and weakness,weakness,Drink plenty of fluids,"Sipping water, herbal tea, or clear broth can provide relief from nausea and weakness by keeping your body hydrated."
-Dengue,Fatigue and weakness,fatigue,Avoid strong smells and flavours,Strong smells and flavors can trigger nausea and worsen weakness. It is best to avoid them if possible.
-Asthma,Wheezing,wheezing,Maintain a healthy lifestyle,"Eating a healthy diet, exercising regularly, and avoiding smoking can help improve lung function and reduce the frequency of wheezing"
-Asthma,Chest tightness,tightness,Use warm compressor,Applying a warm compress to the chest can help relax the muscles and reduce chest tightness
-Asthma,Shortness of breath,breath,Use oxygen therapy,"If your shortness of breath is severe, you may prefer oxygen therapy to help you breathe"
-Asthma,Coughing,coughing,Treat underlying conditions,"If your coughing is caused by an underlying condition, such as asthma or GERD, treating that condition can help alleviate coughing"
-Asthma,lung,lung,Practice deep breathing exercises:,Deep breathing exercises can help improve lung function and reduce the severity of asthma symptoms.
-Asthma,inhaler,inhaler,Make sure you're using your inhaler correctly,Use your inhaler as directed by your doctor or pharmacist to ensure that you're getting the full dose of medication.
-Asthma,allergy,allergy,Identify and avoid allergens:,"Identify the allergens that trigger your asthma symptoms and take steps to avoid them, such as keeping your home free of dust mites, avoiding pets, or staying indoors during high pollen seasons."
-Autism,Communication difficulties,difficulties,Get to know each other,"Socialize outside of the office environment, so people can get to know each other better."
-Autism,Repetitive behaviors ,neurodiversity,Practice mindfullness,Mindfulness exercises such as meditation or deep breathing can help the individual become more aware of their repetitive behavior and recognize when it is happening.
-Autism,disability,disability,Physical therapy,"Physical therapy can help improve strength, flexibility, and mobility in people with disabilities."
-Autism,Get upset by minor changes,upset,Stay positive,Focus on the positive aspects of the change rather than dwelling on the negative
-Obesity,High cholestrol level,cholesterol ,Maintain a healthy weight,Being overweight or obese can increase cholesterol levels. Losing weight through a healthy diet and regular exercise can help lower cholesterol levels
-Obesity,High blood pressure,stress,Reduce stress,"Stress can temporarily increase blood pressure. Finding ways to manage stress, such as through meditation, yoga, or deep breathing, can help lower blood pressure"
-Obesity,Sleep apnea,sleep,Sleeping on your side,Sleeping on your side can help keep the airway open and reduce the severity of sleep apnea
-Obesity,Joint pain,pain,Heat and cold therapy,"Applying heat or cold to the affected joint can help alleviate pain and reduce inflammation. A warm shower or heating pad can help relax muscles and ease pain, while a cold pack can help reduce inflammation"
-Obesity,fat,fat,exercise,Exercise can help you burn excess fat and improve overall health. Aim for at least 150 minutes of moderate-intensity exercise or 75 minutes of vigorous-intensity exercise per week.
-Obesity,Increase in body weight,weight,Drink plenty of water,"Drinking water can help you feel full and hydrated, and may help reduce calorie intake"
-Flu,Cough,cough,Gargle with salt water,Gargling with warm salt water can help soothe the throat and reduce cough
-Flu,Soar throat,soar throat,Drink warm fluids,"Drinking warm liquids, such as tea or broth, can help soothe the throat and provide temporary relief"
-Flu,Runny or stuffy nose,stuffy nose,Use saline nasal drops,Saline nasal drops or spray can help flush out the nasal passages and alleviate congestion
-Flu,Body aches,body aches,Apply heat or cold,"Applying heat or cold to the affected area can help alleviate pain and reduce inflammation. Use a hot compress, such as a heating pad or warm towel, for muscle aches, or a cold compress, such as an ice pack or frozen vegetables wrapped in a towel, for joint pain"
-Flu,virus,virus,virus,o it's important to rest and give your body time to fight off the infection. You may also consider taking antiviral medication if your doctor recommends it.
-Flu,cold,cold,Use a humidifier,A cool mist humidifier can help keep the air moist and ease dry cough and congestion
-Flu,headache,headache,"Rest in a quiet, dark room","Rest in a quiet, dark room This can help alleviate the symptoms of a headache."
+fever,High body temperature,temperature,"Use a damp cloth ,Lower the room temperature","You can use a damp cloth or sponge to help lower your body temperature. Place the cloth on your forehead, neck, or armpits, Keep your room cool and well-ventilated. This can help reduce your body temperature and make you more comfortable."
+fever,Chills,chills,"Drink warm fluids,Take a warm bath","Sipping on warm liquids, such as tea or soup, can help warm you up from the inside and alleviate chills, Soaking in a warm bath or shower can help alleviate chills and provide comfort."
+fever,Sweating,sweating,"Stay hydrated, Avoid triggers","Drinking plenty of water and fluids can help regulate body temperature and prevent dehydration, which can worsen sweating.,Certain foods and drinks, such as spicy foods and caffeine, can trigger sweating. Avoid these triggers if they cause excessive sweating."
+fever,Headache,headache,"Apply heat or cold, manage stress, drink fluids","Applying a cold or warm compress to the affected area can help relieve headache pain., Stress can cause tension headaches. Try relaxation techniques, such as deep breathing, meditation, or yoga, to manage stress.,Dehydration can cause headaches, so it is important to drink plenty of fluids to prevent dehydration."
+fever,Muscle aches,muscle aches,"Massage ,stretch, apply heat or cold","Massaging the affected area can help increase blood flow and alleviate muscle pain and tension, Gentle stretching exercises can help alleviate muscle tension and improve flexibility, Applying a cold or warm compress to the affected area can help relieve headache pain.."
+fever,Fatigue,fatigue,Limit caffeine and alcohol,"Caffeine and alcohol can disrupt sleep and cause dehydration, which can worsen fatigue."
+fever,Rapid heartbeat,heartbeat,Avoid triggers,"If you know that certain activities or situations trigger your tachycardia, try to avoid them or find ways to manage them."
+fever,diarrhea,diarrhea,avoid solid food,"Stick to a liquid or soft diet, and avoid solid foods until the symptoms improve."
+fever,nausea,nausea,hydrate,"Drink plenty of fluids, such as water, juice, or electrolyte beverages, to keep your body hydrated and help reduce nausea."
+fever,throat,throat,Gargle with salt water,Gargling with warm salt water can help soothe a sore throat.
+nausea,The sensation of needing to vomit,vomit,Use natural remedies,Ginger has been shown to be effective in reducing nausea. You can try drinking ginger tea or taking ginger supplements
+nausea,Increased salivation or sweating,sweating,Avoid triggers," If you know certain foods, smells, or situations trigger your symptoms, try to avoid them or find ways to manage them."
+nausea,A feeling of queasiness in the stomach,stomach,"Eat small, frequent meals","Eating small, frequent meals that are low in fat and easy to digest can help prevent queasiness. Foods like crackers, toast, bananas, and rice can be helpful."
+nausea,Gagging or retching,retching,Practice relaxation techniques,"Deep breathing exercises, yoga, or meditation can help reduce stress and anxiety, which can contribute to gagging or retching."
+nausea,salivation,salivation,Ginger:,"Ginger is a natural anti-inflammatory and antiemetic, which can help relieve nausea and vomiting"
+nausea,queasinees,queasiness,Peppermint,Peppermint is also known to help alleviate nausea. You can try sipping on peppermint tea or sucking on peppermint candies.
+nausea,headche,headache,Hydrate,"Drinking plenty of fluids, such as water or electrolyte-rich drinks, can help combat nausea and headaches caused by dehydration."
+nausea,Rapid heartbeat,rapid heartbeat,Deep breathing exercises," Slow, deep breathing can help calm your body and reduce anxiety, which may be contributing to your symptoms."
+nausea,anxiety,anxiety,Relaxation techniques:,"Meditation, yoga, or other relaxation techniques may help reduce anxiety and promote feelings of calmness."
+nausea,Gagging or retching,gagging,"Eat small, frequent meals","Eating small, frequent meals that are low in fat and easy to digest can help prevent gagging or retching. Foods like crackers, toast, bananas, and rice can be helpful."
+sprain,Swelling,swelling,Ice,"Applying ice to the affected area can help reduce swelling and relieve pain. Wrap ice in a towel or use an ice pack for 20 minutes at a time, several times a day."
+sprain,pain,pain,Ice,"Applying ice to the affected area can help reduce swelling and relieve pain. Wrap ice in a towel or use an ice pack for 20 minutes at a time, several times a day."
+sprain,Restricted mobility,mobility,Physical therapy,"A physical therapist can develop a customized exercise program to help improve strength, flexibility, and mobility. They can also provide guidance on using mobility aids such as canes or walkers."
+sprain,soreness,soreness,Rest and Ice,"If you have a sprain or injury with soreness, the first thing you should do is to rest the affected area and apply ice. This will help reduce swelling and pain. Ice the area for 15-20 minutes every few hours for the first 48 hours."
+sprain,injury,injury,Compression,"You can also use compression to help reduce swelling and soreness. Wrap the affected area with an elastic bandage, but not too tightly. Make sure to re-wrap the area if it feels too tight or if you experience tingling or numbness"
+sprain,Instability,Instability,Surgery,"In some cases, instability may require surgical intervention, such as joint replacement or spinal surgery."
+sprain,twist foot,twist foot,ice,"Applying ice to the affected area can help reduce swelling and relieve pain. Wrap ice in a towel or use an ice pack for 20 minutes at a time, several times a day."
+sprain,twist foot,ankle,ice,"Applying ice to the affected area can help reduce swelling and relieve pain. Wrap ice in a towel or use an ice pack for 20 minutes at a time, several times a day."
+sprain,Bruising,bruising,Heat,You can apply heat to boost circulation and increase blood flow. This will help to clear away the trapped blood after the bruise has already formed. Applying heat can also help to loosen tense muscles and relieve pain.
+stroke,"Sudden numbness or weakness in the face, arm, or leg, especially on one side of the body",loss,Avoid any strenuous activities,"If you experience sudden numbness or weakness, avoid any strenuous activities that could worsen the condition. Rest and allow your body to recover."
+anxiety,depression,depression,Seek professional help: ,Talk to a mental health professional who can help you understand your symptoms and develop a treatment plan.
+anxiety,confusion,confusion,Engage in stimulating activities: ,"Activities such as puzzles, games, or creative projects can help stimulate the brain and increase focus."
+anxiety,struggle,struggle,Practice self-compassion,"Treat yourself with kindness and understanding. Acknowledge that struggling is a normal part of the human experience, and give yourself permission to take time to heal."
+anxiety,stress,stress,Exercise regularly,Exercise is a natural stress reliever and can help reduce symptoms of depression.
+anxiety,Excessive worry or fear,fear,Healthy diet,"Eating a healthy, balanced diet can help improve mood and reduce anxiety. Avoiding excessive amounts of caffeine and alcohol can also help reduce anxiety symptoms."
+anxiety,Panic attacks,attacks,Breathing exercises,"Focusing on slow, deep breathing can help reduce the intensity of panic attack symptoms. Try inhaling slowly through your nose and exhaling slowly through your mouth."
+anxiety,Difficulty sleeping,sleeping,Create a relaxing sleep environment,"Make sure your bedroom is cool, quiet, and dark. Consider using blackout curtains, earplugs, or a white noise machine to block out any distractions."
+anxiety,Irritability,irritability,Social support,"Talking to a trusted friend or family member, or joining a support group can help reduce feelings of isolation and provide a supportive environment to manage irritability."
+dengue,High Fever,fever,Wear light weight clothing,Dress in lightweight clothing to help your body better regulate its temperature.
+dengue,mosquito,mosquito,Use mosquito repellent:,"Apply mosquito repellent to your skin and clothing, especially when going outdoors."
+dengue,virus,virus,Monitor your symptoms,"Pay attention to any changes in your symptoms, such as high fever or severe abdominal pain, and seek medical attention if necessary."
+dengue,platelet,platelet,Avoid activities that may cause bleeding,"Avoid activities that may cause bruising or bleeding, such as contact sports or heavy lifting, until your platelet count returns to a safe level."
+dengue,Severe headache,headache,Need relaxation,"Try relaxation techniques such as deep breathing, meditation, or yoga."
+dengue,Joint and Muscle pain,joint pain,Acupuncture,Acupuncture can help reduce muscle and joint pain by stimulating the body's natural pain-relieving mechanisms.
+dengue,Nausea and Vomiting,nausea,Eat lighter and frequent meals, Try to eat small meals throughout the day to avoid an empty stomach.
+dengue,Nausea and Vomiting,vomiting,Avoid alcohol and smoking," Both alcohol and smoking can irritate the stomach lining, which can worsen nausea and vomiting."
+dengue,Fatigue and weakness,weakness,Drink plenty of fluids,"Sipping water, herbal tea, or clear broth can provide relief from nausea and weakness by keeping your body hydrated."
+dengue,Fatigue and weakness,fatigue,Avoid strong smells and flavours,Strong smells and flavors can trigger nausea and worsen weakness. It is best to avoid them if possible.
+asthma,Wheezing,wheezing,Maintain a healthy lifestyle,"Eating a healthy diet, exercising regularly, and avoiding smoking can help improve lung function and reduce the frequency of wheezing"
+asthma,Chest tightness,tightness,Use warm compressor,Applying a warm compress to the chest can help relax the muscles and reduce chest tightness
+asthma,Shortness of breath,breath,Use oxygen therapy,"If your shortness of breath is severe, you may prefer oxygen therapy to help you breathe"
+asthma,Coughing,coughing,Treat underlying conditions,"If your coughing is caused by an underlying condition, such as asthma or GERD, treating that condition can help alleviate coughing"
+asthma,lung,lung,Practice deep breathing exercises:,Deep breathing exercises can help improve lung function and reduce the severity of asthma symptoms.
+asthma,inhaler,inhaler,Make sure you're using your inhaler correctly,Use your inhaler as directed by your doctor or pharmacist to ensure that you're getting the full dose of medication.
+asthma,allergy,allergy,Identify and avoid allergens:,"Identify the allergens that trigger your asthma symptoms and take steps to avoid them, such as keeping your home free of dust mites, avoiding pets, or staying indoors during high pollen seasons."
+autism,Communication difficulties,difficulties,Get to know each other,"Socialize outside of the office environment, so people can get to know each other better."
+autism,Repetitive behaviors ,neurodiversity,Practice mindfullness,Mindfulness exercises such as meditation or deep breathing can help the individual become more aware of their repetitive behavior and recognize when it is happening.
+autism,disability,disability,Physical therapy,"Physical therapy can help improve strength, flexibility, and mobility in people with disabilities."
+autism,Get upset by minor changes,upset,Stay positive,Focus on the positive aspects of the change rather than dwelling on the negative
+obesity,High cholestrol level,cholesterol ,Maintain a healthy weight,Being overweight or obese can increase cholesterol levels. Losing weight through a healthy diet and regular exercise can help lower cholesterol levels
+obesity,High blood pressure,stress,Reduce stress,"Stress can temporarily increase blood pressure. Finding ways to manage stress, such as through meditation, yoga, or deep breathing, can help lower blood pressure"
+obesity,Sleep apnea,sleep,Sleeping on your side,Sleeping on your side can help keep the airway open and reduce the severity of sleep apnea
+obesity,Joint pain,pain,Heat and cold therapy,"Applying heat or cold to the affected joint can help alleviate pain and reduce inflammation. A warm shower or heating pad can help relax muscles and ease pain, while a cold pack can help reduce inflammation"
+obesity,fat,fat,exercise,Exercise can help you burn excess fat and improve overall health. Aim for at least 150 minutes of moderate-intensity exercise or 75 minutes of vigorous-intensity exercise per week.
+obesity,Increase in body weight,weight,Drink plenty of water,"Drinking water can help you feel full and hydrated, and may help reduce calorie intake"
+flu,Cough,cough,Gargle with salt water,Gargling with warm salt water can help soothe the throat and reduce cough
+flu,Soar throat,soar throat,Drink warm fluids,"Drinking warm liquids, such as tea or broth, can help soothe the throat and provide temporary relief"
+flu,Runny or stuffy nose,stuffy nose,Use saline nasal drops,Saline nasal drops or spray can help flush out the nasal passages and alleviate congestion
+flu,Body aches,body aches,Apply heat or cold,"Applying heat or cold to the affected area can help alleviate pain and reduce inflammation. Use a hot compress, such as a heating pad or warm towel, for muscle aches, or a cold compress, such as an ice pack or frozen vegetables wrapped in a towel, for joint pain"
+flu,virus,virus,virus,o it's important to rest and give your body time to fight off the infection. You may also consider taking antiviral medication if your doctor recommends it.
+flu,cold,cold,Use a humidifier,A cool mist humidifier can help keep the air moist and ease dry cough and congestion
+flu,headache,headache,"Rest in a quiet, dark room","Rest in a quiet, dark room This can help alleviate the symptoms of a headache."
